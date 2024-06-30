@@ -1,3 +1,0 @@
-repository='https://github.com/AngusJohnson/Clipper2.git'
-module=''
-tag='origin'
