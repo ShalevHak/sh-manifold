@@ -7,6 +7,7 @@
   - cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=ON .. && make
 - Build the project again in shalev directory:
   - cd shalev
+  - mkdir build
   - cd build
   - cmake ..
   - make
