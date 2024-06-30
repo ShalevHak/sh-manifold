@@ -1,0 +1,3 @@
+/home/shalev/sh-manif/shalev/build/_deps/clipper2-subbuild/CMakeFiles/clipper2-populate.dir
+/home/shalev/sh-manif/shalev/build/_deps/clipper2-subbuild/CMakeFiles/edit_cache.dir
+/home/shalev/sh-manif/shalev/build/_deps/clipper2-subbuild/CMakeFiles/rebuild_cache.dir
