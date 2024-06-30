@@ -1,4 +1,5 @@
 - Build the Maniold c++ library from https://github.com/elalish/manifold in the 'external' directory by following these steps:
+  - cd external
   - git clone --recurse-submodules https://github.com/elalish/manifold.git
   - cd manifold
   - mkdir build
